@@ -1,0 +1,42 @@
+tr.header {
+    background-color: aqua;
+}
+
+table {
+    text-align: center;
+    border-collapse: collapse;
+    width: 600px;
+    margin: 20px auto;
+}
+
+table tr:nth-child(2) {
+    background-color: lightcoral;
+    font-size: 14px;
+}
+
+table tr:nth-child(3) {
+    background-color: aquamarine;
+    font-size: 14xp;
+}
+
+table tr:nth-child(4) {
+    background-color: burlywood;
+    font-size: 14xp;
+}
+
+table tr:nth-child(2):hover {
+    background-color: antiquewhite;
+}
+
+table tr:nth-child(3):hover {
+    background-color: chocolate;
+}
+
+table tr:nth-child(4):hover {
+    background-color: blueviolet;
+}
+
+td {
+    padding: 10px;
+    border: 1xp solid black;
+}

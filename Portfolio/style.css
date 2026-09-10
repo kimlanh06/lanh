@@ -1,0 +1,49 @@
+        body {
+            margin: 0;
+            font-family: Arial;
+            background-color: aliceblue;
+            color: black;
+        }
+        
+        head {
+            background-color: cornflowerblue;
+            color: white;
+            text-align: centre;
+            padding: aut30px;
+        }
+        
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 20px;
+            font-size: 17px;
+        }
+        
+        nav a:hover {
+            color: cornflowerblue;
+        }
+        
+        main {
+            width: 80%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 30px;
+            min-height: 350px;
+        }
+        
+        h2 {
+            color: cornflowerblue;
+        }
+        
+        nav {
+            background-color: black;
+            text-align: center;
+            padding: 15px;
+        }
+        
+        .skill {
+            background-color: lightcyan;
+            padding: 20px;
+            margin: 20px 0;
+            border-radius: 8px;
+        }
